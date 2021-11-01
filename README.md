@@ -40,6 +40,6 @@ Feel free to reach out to with any questions or for clarification.
 - MVC JS architecture
 
 ## Dev notes
--Been a while since i just used vanilla, but I managed to hack it together while keeping a material design with a left hand "hamburger" menu navbar.
--Probably took the longest way around possible using the JS to grab HTML elements and parse through the employee data when adding, verifying, etc.
--Could have implemented deeper form checking to tell what was wrong when adding an employee with blank fields.
+- Been a while since i just used vanilla, but I managed to hack it together while keeping a material design with a left hand "hamburger" menu navbar.
+- Probably took the longest way around possible using the JS to grab HTML elements and parse through the employee data when adding, verifying, etc.
+- Could have implemented deeper form checking to tell what was wrong when adding an employee with blank fields.
